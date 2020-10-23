@@ -54,6 +54,6 @@ class GreetingController extends Controller
                 
                 }
 
-                }    
+                }
 
             
